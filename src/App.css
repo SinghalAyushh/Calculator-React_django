@@ -1,0 +1,37 @@
+.result {
+  height: 60px;
+  background-color: orange;
+  width: 100%;
+  color: white;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+}
+
+button {
+ 
+  background-color: #000;
+  color: white;
+  font-size: xx-large;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+}
+
+.Navbar{
+  position: relative;
+  top: 0%;
+  width:100%;
+  background-color: black;
+}
